@@ -39,6 +39,6 @@
   },
   "devDependencies": {
     "gh-pages": "^3.2.3"
-  },
-  "homepage": "https://edex-13.github.io/to-do-list"
+  }
+  // "homepage": "https://edex-13.github.io/to-do-list"
 }
